@@ -1,5 +1,5 @@
 # NitZZ057
-<h1 align="center">Hi 👋, I'm Nitesh Ramesh Jadhav</h1>
+<h1 align="center">I am [![Typing SVG](https://readme-typing-svg.demolab.com/?lines= Nitesh Jadhav;Programer)](https://git.io/typing-svg)</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitzz057&label=Profile%20views&color=0e75b6&style=flat" alt="nitzz057" /> </p>
