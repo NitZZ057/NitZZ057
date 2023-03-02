@@ -1,5 +1,4 @@
 # GitHub-Username
-ReadMe
 <h1 align="center">Hi 👋, I'm Nitesh Ramesh Jadhav</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
