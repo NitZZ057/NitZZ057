@@ -23,7 +23,6 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/nitesh-jadhav-89426321b](www.linkedin.com/in/nitesh-jadhav-89426321b)
 
-- ⚡ Fun fact **I'm not funny 😒**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
