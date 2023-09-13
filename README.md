@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitzz057" alt="nitzz057" /></a> </p>
 
-- 🔭 I’m currently working on **Personal Project**
+- 🔭 I’m currently working on **Client's Project**
 
-- 🌱 I’m currently learning **Laravel, TALL stack**
+- 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **Public Projects**
+- 👯 I’m looking to collaborate on **Public Projects related to MERN stack**
 
-- 🤝 I’m looking for help with **Personal Project**
+- 🤝 I’m looking for help with **React Native Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/NitZZ057](https://github.com/NitZZ057)
 
-- 💬 Ask me about **Java, Laravel, MySQL**
+- 💬 Ask me about **Java, MERN, Laravel, MySQL**
 
 - 📫 How to reach me **nitzz057@gmail.com**
 
