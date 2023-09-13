@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitzz057&label=Profile%20views&color=0e75b6&style=flat" alt="nitzz057" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nitzz057" alt="nitzz057" /></a> </p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=NitZZ057&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 💫 About Me:
 - 🔭 I’m currently working on Client's Project<br><br>- 🌱 I’m currently learning React Native<br><br>- 👯 I’m looking to collaborate on **Public Projects related to MERN stack**<br><br>- 🤝 I’m looking for help with **React Native Project**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/NitZZ057](https://github.com/NitZZ057)<br><br>- 💬 Ask me about **Java, MERN, Laravel, MySQL**<br><br>- 📫 How to reach me **nitzz057@gmail.com**<br><br>- 📄 Know about my experiences [www.linkedin.com/in/nitesh-jadhav-89426321b](www.linkedin.com/in/nitesh-jadhav-89426321b)
