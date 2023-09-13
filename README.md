@@ -6,10 +6,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitzz057&label=Profile%20views&color=0e75b6&style=flat" alt="nitzz057" /> </p>
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NitZZ057&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=NitZZ057&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 # 💫 About Me:
-- 🔭 I’m currently working on Client's Project<br><br>- 🌱 I’m currently learning React Native<br><br>- 👯 I’m looking to collaborate on **Public Projects related to MERN stack**<br><br>- 🤝 I’m looking for help with **React Native Project**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/NitZZ057](https://github.com/NitZZ057)<br><br>- 💬 Ask me about **Java, MERN, Laravel, MySQL**<br><br>- 📫 How to reach me **nitzz057@gmail.com**<br><br>- 📄 Know about my experiences [www.linkedin.com/in/nitesh-jadhav-89426321b](www.linkedin.com/in/nitesh-jadhav-89426321b)
+- 🔭 I’m currently working on **Client's Project**<br><br>- 🌱 I’m currently learning **React Native**<br><br>- 👯 I’m looking to collaborate on **Public Projects related to MERN stack**<br><br>- 🤝 I’m looking for help with **React Native Project**<br><br>- 👨‍💻 All of my projects are available at [https://github.com/NitZZ057](https://github.com/NitZZ057)<br><br>- 💬 Ask me about **Java, MERN, Laravel, MySQL**<br><br>- 📫 How to reach me **nitzz057@gmail.com**<br><br>- 📄 Know about my experiences [www.linkedin.com/in/nitesh-jadhav-89426321b](www.linkedin.com/in/nitesh-jadhav-89426321b)
 
 
 ## 🌐 Socials:
@@ -22,11 +22,12 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NitZZ057&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NitZZ057&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NitZZ057&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=NitZZ057&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
