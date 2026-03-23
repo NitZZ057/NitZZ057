@@ -85,8 +85,6 @@ Key highlights:
 - modular frontend architecture
 - service-layer backend design
 
-You can pin this project on your profile so recruiters see it first.
-
 ---
 
 ## Connect With Me
