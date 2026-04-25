@@ -1,108 +1,86 @@
 <h1 align="center">Hi, I'm Nitesh Jadhav</h1>
-<h3 align="center">Java, Laravel, and Full-Stack Web Developer from India</h3>
+<h3 align="center">AI Engineer | Full-Stack Specialist | Agentic Systems & RAG</h3>
 
 <p align="center">
-  I build scalable web applications with a strong focus on backend development, clean architecture, and practical product design.
+  <a href="https://github.com/NitZZ057">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/nitesh-jadhav-89426321b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:nitzz057@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://nitzz057.github.io/nitesh/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/NitZZ057">GitHub</a> •
-  <a href="https://www.linkedin.com/in/nitesh-jadhav-89426321b/">LinkedIn</a> •
-  <a href="mailto:nitzz057@gmail.com">Email</a>
+  <b>Notice Period: 1 Month | Open to International Relocation (Europe/UK)</b>
 </p>
 
 ---
 
-## About Me
+## 🚀 Specialized Expertise
 
-- Full-stack developer with experience in Java, Laravel, React, MySQL, and modern web development
-- Interested in building practical software products with clean backend systems and strong user experience
-- Currently exploring React Native and expanding into mobile app development
-- Open to collaborating on meaningful full-stack and web application projects
-- Comfortable working across frontend, backend, APIs, databases, and deployment workflows
-
----
-
-## What I Work With
-
-### Languages
-- Java
-- PHP
-- JavaScript
-- C
-
-### Frameworks and Libraries
-- Laravel
-- React
-- React Native
-- Express.js
-- Tailwind CSS
-
-### Databases
-- MySQL
-- MongoDB
-
-### Tools and Platforms
-- Git
-- GitHub
-- Postman
-- Netlify
-- Linux
-- NPM
+- **Generative AI & Agents:** Architecting multi-agent systems using **LangChain** and **FastAPI** to automate complex business logic.
+- **RAG Architectures:** Implementing advanced Retrieval-Augmented Generation with **Vector Databases (Pinecone/ChromaDB)** and semantic chunking.
+- **AI Evaluation:** Using **Ragas** and TruLens frameworks to ensure hallucination-free, production-ready LLM outputs.
+- **Full-Stack Mastery:** 2+ years of experience in **Laravel, Python (FastAPI), and React.js**, building high-performance SaaS platforms.
 
 ---
 
-## Featured Strengths
+## 🛠️ Tech Stack
 
-- Backend development with Laravel and PHP
-- Java application development
-- REST API design and integration
-- Database design and management
-- Full-stack web application development
-- Clean and modular frontend development with React
+### AI & LLM Orchestration
+- **Frameworks:** LangChain, OpenAI APIs, CrewAI, LangGraph
+- **Vector DBs:** Pinecone, ChromaDB, FAISS
+- **Evaluation:** Ragas, Prompt Engineering pipelines
 
----
+### Backend & Databases
+- **Languages:** Python (FastAPI), PHP (Laravel), Java
+- **Databases:** MySQL, PostgreSQL, MongoDB, Redis
+- **Architecture:** Microservices, RESTful API Design, System Design
 
-## Current Focus
-
-- Building strong full-stack projects
-- Improving production-level application design
-- Learning React Native
-- Exploring AI-powered application workflows
+### Frontend & DevOps
+- **Frontend:** React.js, Tailwind CSS, Next.js
+- **Tools:** Docker, Git, CI/CD (GitHub Actions), AWS, Azure, Postman
 
 ---
 
-## Featured Project
+## 🌟 Featured Project: AI Policy Assistant
 
-### AI Policy Assistant
-A production-shaped AI-powered policy workflow application built with Laravel, React, and OpenAI.
+> **A production-grade Agentic RAG application for automated legal/insurance policy analysis.**
 
-Key highlights:
-- structured AI outputs
-- authentication and user-scoped history
-- audit trail for generated analyses
-- human-in-the-loop review workflow
-- modular frontend architecture
-- service-layer backend design
+### Key Engineering Highlights:
+- **Multi-Agent Workflow:** Distinct agents for summarization, risk analysis, and automated client email generation.
+- **Advanced RAG:** Context-aware retrieval from complex policy PDFs using semantic embeddings.
+- **Reliability Metrics:** Achieved a **[LATEST_SCORE]% Faithfulness score** via Ragas evaluation.
+- **Human-in-the-loop:** Integrated audit trails and review workflows for high-stakes compliance.
+- **Stack:** Python (FastAPI), React, Pinecone, OpenAI, Docker.
 
 ---
 
-## Connect With Me
+## 📈 Professional Impact (Taurus Technologies)
 
-- Email: `nitzz057@gmail.com`
-- LinkedIn: [nitesh-jadhav-89426321b](https://www.linkedin.com/in/nitesh-jadhav-89426321b/)
-- GitHub: [NitZZ057](https://github.com/NitZZ057)
+- Engineered core modules for a cloud-based insurance SaaS platform, managing full policy lifecycles.
+- Developed 30+ RESTful APIs, reducing processing latency by **25%** and improving system efficiency.
+- Integrated LLM-based automation to reduce manual policy review time by **70%**.
+
+---
+
+## 📬 Connect With Me
+
+- **Email:** `nitzz057@gmail.com`
+- **LinkedIn:** [nitesh-jadhav-89426321b](https://www.linkedin.com/in/nitesh-jadhav-89426321b/)
+- **Targeting:** AI Engineer / Senior Full-Stack Roles in Europe.
 
 ---
 
 ## GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NitZZ057&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NitZZ057&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 <p align="center">
