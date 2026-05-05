@@ -56,7 +56,7 @@
 ### Key Engineering Highlights:
 - **Multi-Agent Workflow:** Distinct agents for summarization, risk analysis, and automated client email generation.
 - **Advanced RAG:** Context-aware retrieval from complex policy PDFs using semantic embeddings.
-- **Reliability Metrics:** Achieved a **[LATEST_SCORE]% Faithfulness score** via Ragas evaluation.
+- **Reliability Metrics:** Achieved a **90% Faithfulness score** via Ragas evaluation.
 - **Human-in-the-loop:** Integrated audit trails and review workflows for high-stakes compliance.
 - **Stack:** Python (FastAPI), React, Pinecone, OpenAI, Docker.
 
